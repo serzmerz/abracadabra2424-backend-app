@@ -1,0 +1,9 @@
+{
+  "generator-agonb": {
+    "repository_url": "git@github.com:serzmerz/abracadabra2424-backend-app.git",
+    "project_destination_path": "abracadabra2424-backend-app",
+    "application_name": "abracadabra2424",
+    "project_technology": "rubyonrails",
+    "database_type": "postgresql"
+  }
+}
